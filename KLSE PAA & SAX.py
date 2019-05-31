@@ -4,11 +4,11 @@
 # # Milestones 3
 # ## PAA & SAX
 # ### Prepared by:
-# HAFIFI BIN YAHYA - WQD170042                                          
-# NOR ASMIDAH BINTI MOHD ARSHAD - WQD180006                             
-# MAS RAHAYU BINTI MOHAMAD - WQD180048                                  
-# LEE CHUN MUN - WQD180066                                              
-# JOJIE ANAK NANJU - WQD180029 
+# WQD170042                                          
+# WQD180006                             
+# WQD180048                                  
+# WQD180066                                              
+# WQD180029 
 
 # #### Remark: Prior running the script, please make sure your personal machine is installed with pyts version 0.6.
 
